@@ -27,7 +27,7 @@ h1{
 }
 .img{
   transform-style: preserve-3d;
-  /* animation: tilt 10s linear infinite; */
+  animation: tilt 10s  tilt infinite;
 }
 .img img {
   width: 300px;
